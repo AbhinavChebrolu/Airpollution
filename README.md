@@ -1,4 +1,3 @@
-# Airpollution
 # Air Quality Prediction Linear Regression
 
 ----
