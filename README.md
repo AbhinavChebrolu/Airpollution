@@ -20,7 +20,7 @@ o	Linear Regression Approach
 [![Kaggle](https://img.shields.io/badge/Datasets-add8e6?style=for-the-badge&logo=kaggle&logoColor=white)](https://archive.ics.uci.edu/ml/machine-learning-databases/00360/AirQualityUCI.zip)
 [![DOCS](https://img.shields.io/badge/Documentation-Visit%20Docs-gre?style=flat-square&logo=appveyor)](https://www.tensorflow.org/api_docs/python/tf)
 [![DOCS](https://img.shields.io/badge/Postman-Visit%20Docs-orange?style=flat-square&logo=appveyor)](<paste_your_link_here>)
-https://img.shields.io/github/stars/ndk03/Air-Quality-Prediction
+[![Github](https://img.shields.io/github/stars/ndk03/Air-Quality-Prediction)]
 https://github.com/dsk-003/Air-Quality-Prediction/blob/main/Air%20quality%20prediction%20project.ipynb
 https://github.com/ndk03/Air-Quality-Prediction/blob/master/air_quality_t.ipynb
 
